@@ -1,0 +1,39 @@
+<!-- sp:pagelayer/pl_post_props {"post_title":"Footer","post_status":"publish","post_date":"2021-06-14 09:35:01","post_author":"1","post_name":"footer","post_excerpt":"","post_password":"","featured_image":"","comment_status":"","ping_status":"","post_sticky":"","post_parent":0,"menu_order":0,"post_category":"","post_tags":"","pagelayer-id":"5mw1160"} /-->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":10,"width_content":"auto","row_height":"default","overlay_hover_delay":400,"row_shape_top_color":"#227bc3","row_shape_top_width":100,"row_shape_top_height":100,"row_shape_bottom_color":"#e44993","row_shape_bottom_width":100,"row_shape_bottom_height":100,"ele_padding":["50px","0px","50px","0px"],"pagelayer-id":"kcy9785"} -->
+<!-- sp:pagelayer/pl_col {"overlay_hover_delay":400,"pagelayer-id":"scz2976"} -->
+<!-- sp:pagelayer/pl_inner_row {"stretch":"auto","col_gap":10,"width_content":"auto","row_height":"default","overlay_hover_delay":400,"row_shape_top_color":"#227bc3","row_shape_top_width":100,"row_shape_top_height":100,"row_shape_bottom_color":"#e44993","row_shape_bottom_width":100,"row_shape_bottom_height":100,"pagelayer-id":"3gl2460"} -->
+<!-- sp:pagelayer/pl_inner_col {"overlay_hover_delay":400,"col":4,"pagelayer-id":"gmk7244"} -->
+<!-- sp:pagelayer/pl_wp_title {"site_title_state":"normal","text-align":"left","site_title_style":["Roboto","35","","","","","Solid","1.4","","",""],"title_padding":["0","0","0","0"],"title_color":"#efc95dff","pagelayer-id":"i3l2539"} /-->
+<!-- sp:pagelayer/pl_heading {"text":"\u003cp\u003eThere are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humouror randomised words which don't look even slightly believable.\u003c\/p\u003e","heading_state":"normal","ele_margin":["5px","0px","5px","0px"],"pagelayer-id":"uuo7109"} --><p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humouror randomised words which don't look even slightly believable.</p><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_social_grp {"align":"left","group_layout":"pagelayer-btn-grp-horizontal","icon_spacing":5,"icon_size":25,"color_scheme":"","icon_color":"#ffffffff","icon_color_hover":"#ffffff","social_hover_delay":400,"ele_padding":["20px","0px","0px","0px"],"pagelayer-id":"jko22"} -->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-facebook-f","social_url":"https:\/\/facebook.com\/sitepad","pagelayer-id":"4am3615"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-instagram","social_url":"https:\/\/instagram.com\/sitepad","pagelayer-id":"hnm8624"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-google-plus-g","social_url":"https:\/\/plus.google.com\/sitepad","pagelayer-id":"nej5932"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-twitter","social_url":"https:\/\/twitter.com\/sitepad","pagelayer-id":"vsq1041"} /-->
+<!-- /sp:pagelayer/pl_social_grp -->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- sp:pagelayer/pl_inner_col {"overlay_hover_delay":400,"col":4,"pagelayer-id":"rkb5659"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch4\u003eQuick Links\u003c\/h4\u003e","heading_state":"normal","color":"#efc157ff","pagelayer-id":"eyn4365"} --><h4>Quick Links</h4><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_list {"list_type":"none","spacing":12,"list_text_state":"hover","item_indent":10,"list_icon_state":"hover","icon_color":"#ffffffff","icon_border_type":"","icon_border_color":"#cbd2dc78","icon_border_width":3,"list_color":"","list_color_hover":"#efc157ff","list_hover_delay":800,"side_spacing":8,"icon_color_hover":"#efc157ff","icon_hover_delay":800,"pagelayer-id":"1nz7370"} -->
+<!-- sp:pagelayer/pl_list_item {"item":"Our Services","show_icon":"true","icon":"fas fa-chevron-right","pagelayer-id":"juh2008"} -->Our Services<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"item":"Our Team","show_icon":"true","icon":"fas fa-chevron-right","pagelayer-id":"oua7759"} -->Our Team<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"item":"Our Contact","show_icon":"true","icon":"fas fa-chevron-right","pagelayer-id":"1ul1185"} -->Our Contact<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"item":"Our Products","show_icon":"true","icon":"fas fa-chevron-right","pagelayer-id":"kim8218"} -->Our Products<!-- /sp:pagelayer/pl_list_item -->
+<!-- /sp:pagelayer/pl_list -->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- sp:pagelayer/pl_inner_col {"overlay_hover_delay":400,"col":4,"pagelayer-id":"5y96320"} -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003ch4\u003eNews Letter\u003c\/h4\u003e","heading_state":"normal","color":"#efc157ff","pagelayer-id":"bdh4135"} --><h4>News Letter</h4><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_heading {"text":"\u003cp\u003eIt is a long established fact that a reader will be distracted by the readable content.\u003c\/p\u003e","heading_state":"normal","ele_padding":["0px","0px","15px","0px"],"pagelayer-id":"onr5361"} --><p>It is a long established fact that a reader will be distracted by the readable content.</p><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_contact {"form":"footer-form","name":"Footer- Form","form_position":"default","space_label":",,10,","input_state":"normal","input_padding":"10,10","radio_padding":"10,10","field_hover_delay":400,"submit":"Submit","type":"pagelayer-btn-custom","size":"pagelayer-btn-small","btn_hover_delay":400,"con_post_id":"110797","btn_bg_color":"#efc157ff","btn_color":"#000000ff","contact_custom_templ":"true","cont_subject":"footer-form","cont_header":"$email","cont_use_html":"true","ele_margin":["10px","0px","0px","0px"],"pagelayer-id":"xkh7691"} -->
+<!-- sp:pagelayer/pl_contact_item {"label_name":"Email","field_type":"email","values":"One\nTwo","field_name":"email","field_width":100,"space_between":",,10,","label_as_holder":"true","required":"true","pagelayer-id":"op72567"} /-->
+<!-- /sp:pagelayer/pl_contact -->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- /sp:pagelayer/pl_inner_row -->
+<!-- sp:pagelayer/pl_inner_row {"stretch":"auto","col_gap":10,"width_content":"auto","row_height":"default","overlay_hover_delay":400,"row_shape_top_color":"#227bc3","row_shape_top_width":100,"row_shape_top_height":100,"row_shape_bottom_color":"#e44993","row_shape_bottom_width":100,"row_shape_bottom_height":100,"ele_padding":["20px","0px","0px","0px"],"pagelayer-id":"bxd1606"} -->
+<!-- sp:pagelayer/pl_inner_col {"overlay_hover_delay":400,"pagelayer-id":"lnf2652"} -->
+<!-- sp:pagelayer/pl_copyright {"copyright_text":"\u00a9 2021 Ornament Theme. All right Reserved","color":"#ffffffff","pagelayer-id":"63f542"} /-->
+<!-- sp:pagelayer/pl_btn {"text":"","align":"right","type":"pagelayer-btn-custom","size":"pagelayer-btn-custom","btn_hover_delay":400,"icon":"fas fa-arrow-circle-up","icon_position":"pagelayer-btn-icon-left","icon_spacing":1,"btn_border_type":"solid","btn_border_color":"#42414f","btn_border_width":["0","0","0","0"],"btn_border_radius":["1","1","1","1"],"btn_bg_color":"#efc157ff","btn_color":"#000000ff","btn_custom_size":30,"ele_scrollto":"true","ele_scrollto_type":"totop","ele_scrollto_speed":1.2,"pagelayer-id":"arg5306"} /-->
+<!-- /sp:pagelayer/pl_inner_col -->
+<!-- /sp:pagelayer/pl_inner_row -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->

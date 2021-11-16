@@ -1,0 +1,20 @@
+[16/Nov/2021:07:07:34] (I): WordPress Instance Info:
+[16/Nov/2021:07:07:34] (I): Home URL : http://localhost
+[16/Nov/2021:07:07:34] (I): Site URL : http://localhost
+[16/Nov/2021:07:07:34] (I): WordPress Version : 5.8.2
+[16/Nov/2021:07:07:34] (I): Onboarding Version : 1.1.18
+[16/Nov/2021:07:07:34] (I): Multisite : No
+[16/Nov/2021:07:07:34] (I): Server Info : Apache/2.4.51 (Win64) OpenSSL/1.1.1l PHP/8.0.12
+[16/Nov/2021:07:07:34] (I): PHP Version : 8.0.12
+[16/Nov/2021:07:07:34] (I): HTTPS : No
+[16/Nov/2021:07:07:34] (I): PHP Max Execution Time : 120
+[16/Nov/2021:07:07:34] (I): PHP Max Input Vars : 1000
+[16/Nov/2021:07:07:34] (I): Max Upload Size : 41943040
+[16/Nov/2021:07:07:34] (I): Plugins:
+[16/Nov/2021:07:07:34] (I): [PLUGIN] Elementor Pro : v3.0.5 (Elementor.com)
+[16/Nov/2021:07:07:34] (I): [PLUGIN] Elementor : v3.0.10 (Elementor.com)
+[16/Nov/2021:07:07:34] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.7.1 (ThemeIsle)
+[16/Nov/2021:07:07:34] (I): [PLUGIN] Templates Patterns Collection : v1.1.18 (ThemeIsle)
+[16/Nov/2021:07:07:34] (I): [PLUGIN] WooCommerce : v5.9.0 (Automattic)
+[16/Nov/2021:07:07:34] (I): [PLUGIN] WP Reset : v1.93 (WebFactory Ltd)
+[16/Nov/2021:07:07:34] (I): [PLUGIN] WPForms Lite : v1.7.1.1 (WPForms)
